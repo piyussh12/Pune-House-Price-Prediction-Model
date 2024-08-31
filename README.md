@@ -22,24 +22,24 @@ server/
 Prerequisites   
 ∙Ensure you have Python 3.x installed along with the following packages:  
 
-∙pandas
-∙numpy
-∙seaborn
-∙matplotlib
-∙scikit-learn
-∙Flask (for the server)
+∙pandas  
+∙numpy  
+∙seaborn  
+∙matplotlib  
+∙scikit-learn  
+∙Flask (for the server)  
 
-Usage
-∙Predicting House Prices: Use the web interface to input details like location, square footage, number of bathrooms, and number of bedrooms. The predicted price will be displayed on the same page.
+Usage  
+∙Predicting House Prices: Use the web interface to input details like location, square footage, number of bathrooms, and number of bedrooms. The predicted price will be displayed on the same page.  
 
-Model Information
-∙The model was built using a Linear Regression algorithm.
-∙The data preprocessing and model training are documented in house_price_prediction.ipynb.
+Model Information  
+∙The model was built using a Linear Regression algorithm.  
+∙The data preprocessing and model training are documented in house_price_prediction.ipynb.  
 
-Future Enhancements
-∙UI Improvements: Enhance the web interface with more features and responsive design.
-∙Model Improvements: Explore more advanced machine learning algorithms to improve prediction accuracy.
-∙Deployment: Deploy the application on a cloud platform like AWS
+Future Enhancements  
+∙UI Improvements: Enhance the web interface with more features and responsive design.  
+∙Model Improvements: Explore more advanced machine learning algorithms to improve prediction accuracy.  
+∙Deployment: Deploy the application on a cloud platform like AWS  
 
-Contributing
-∙Feel free to submit issues or pull requests if you want to contribute to the project.
+Contributing  
+∙Feel free to submit issues or pull requests if you want to contribute to the project.  
